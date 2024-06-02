@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\C#Programming\C#Programming\bin\Debug\net8.0\C#Programming.exe
+C:\Users\Admin\source\repos\C#Programming\C#Programming\bin\Debug\net8.0\C#Programming.deps.json
+C:\Users\Admin\source\repos\C#Programming\C#Programming\bin\Debug\net8.0\C#Programming.runtimeconfig.json
+C:\Users\Admin\source\repos\C#Programming\C#Programming\bin\Debug\net8.0\C#Programming.dll
+C:\Users\Admin\source\repos\C#Programming\C#Programming\bin\Debug\net8.0\C#Programming.pdb
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.AssemblyInfo.cs
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.sourcelink.json
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.dll
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\refint\C#Programming.dll
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.pdb
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\C#Programming.genruntimeconfig.cache
+C:\Users\Admin\source\repos\C#Programming\C#Programming\obj\Debug\net8.0\ref\C#Programming.dll
